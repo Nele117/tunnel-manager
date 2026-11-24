@@ -1,0 +1,17 @@
+.env
+.env.*
+__pycache__
+*.pyc
+README.md
+install.sh
+
+state.json
+state.json.tmp
+pending.json
+pending.json.tmp
+connector.token
+/data/
+
+docs/
+CHANGELOG.md
+SECURITY.md
